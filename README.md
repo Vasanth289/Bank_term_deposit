@@ -1,4 +1,4 @@
-# Bank_term_deposit
+# Bank Marketing Dataset
 
 Getting an insight about the dataset using Explanatory Data Analysis(EDA).
 Performing data transformation and dimensionality reduction on the dataset.
